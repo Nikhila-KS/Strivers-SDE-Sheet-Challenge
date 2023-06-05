@@ -1,3 +1,4 @@
 # Strivers-SDE-Sheet-Challenge🦈
 https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/ 
-![image](https://github.com/Nikhila-KS/Strivers-SDE-Sheet-Challenge/assets/100426366/20ee007a-da81-4f0c-abf7-25b4746f77d6)
+<img width="261" alt="image" src="https://github.com/Nikhila-KS/Strivers-SDE-Sheet-Challenge/assets/100426366/a80933da-8541-4208-95a7-d6d49ed3729f">
+
